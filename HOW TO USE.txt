@@ -1,0 +1,4 @@
+1. Download Python.
+2. Run setup.bat.
+3. Once finished run stellar boostrapper.
+4. Then it should automatically open stellar after it finishes building the ui.
